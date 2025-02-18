@@ -1,2 +1,2 @@
 # First-project
-Project to deploy webpage
+The goal of this project is to devolop a static site and host it on github.
